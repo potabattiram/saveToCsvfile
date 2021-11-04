@@ -1,10 +1,9 @@
 from setuptools import setup, find_packages
 import pathlib
 
-#here = pathlib.Path(__file__).parent
-#README = (here / "README.md").read_text()
-with open("README.md","r") as fh:
-    long_description = fh.read()
+here = pathlib.Path(__file__).parent
+README = (here / "README.md").read_text()
+
 
 setup(
     name='saveToCsv', 
@@ -12,7 +11,7 @@ setup(
     description='A Python module that helps to save data into csv file locally', 
     author='Ram Potabatti',
     long_description_content_type="text/markdown",
-    long_description=long_description,
+    long_description=README,
     url='https://github.com/potabattiram/saveToCsv',
     author_email='potabattiram@gmail.com',  
     classifiers=[  

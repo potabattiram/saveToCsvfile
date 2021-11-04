@@ -1,0 +1,14 @@
+[distutils]
+index-servers =
+  pypi
+  pypitest
+
+[pypitest]
+repository: testpypi.python.org/pypi
+username: rampotabatti
+password: VrindavanDham
+
+[pypi]
+repository: upload.pypi.org/legacy
+username: rampotabatti
+password: VrindavanDham
