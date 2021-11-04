@@ -18,7 +18,7 @@ setup(
     classifiers=[  
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3',
-        'Operating System' :: 'OS Independent',
+        'Operating System :: OS Independent',
     ],
     keywords='savetocsv, data in backend, development', 
     packages=['saveToCsv'], 
