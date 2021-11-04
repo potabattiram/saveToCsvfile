@@ -6,7 +6,7 @@ README = (here / "README.md").read_text()
 
 
 setup(
-    name='saveToCsv', 
+    name='saveToCsvfile', 
     version='1.0.0',
     description='A Python module that helps to save data into csv file locally', 
     author='Ram Potabatti',

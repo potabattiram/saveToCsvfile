@@ -8,7 +8,7 @@ SaveToCsv is a Python module that helps to save data into CSV file locally.
 
 ### Now, you need to import the package using the following command
 ```
-from saveToCsv import insertTo,fetchAll,fetch_N
+from saveToCsvfile import insertTo,fetchAll,fetch_N
 ```
 
 ## Above 3 functions, works as follows-
