@@ -1,3 +1,20 @@
+Metadata-Version: 2.1
+Name: saveToCsvfile
+Version: 1.0.0
+Summary: A Python module that helps to save data into csv file locally
+Home-page: https://github.com/potabattiram/saveToCsvfile
+Author: Ram Potabatti
+Author-email: potabattiram@gmail.com
+License: UNKNOWN
+Keywords: saveToCsvfile,data in backend,development
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6, <4
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
 # saveToCsvfile
 saveToCsvfile is a Python module that helps to save data into CSV file locally.  
 
@@ -29,3 +46,5 @@ print(data)
 topTwo = fetch_N(2)
 print(topTwo)
 ```
+
+

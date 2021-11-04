@@ -1,8 +1,0 @@
-README.md
-setup.py
-saveToCsv/saveToCsv.py
-saveToCsv.egg-info/PKG-INFO
-saveToCsv.egg-info/SOURCES.txt
-saveToCsv.egg-info/dependency_links.txt
-saveToCsv.egg-info/requires.txt
-saveToCsv.egg-info/top_level.txt
